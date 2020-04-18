@@ -33,7 +33,7 @@ It should look something like this:
 
 When creating your form, your "Submit" button will need to be identified by an
 `id` attribute with value of "Submit". We're telling this to you now
-because our test frame work, Capybara, requires buttons to be
+because our test framework, Capybara, requires buttons to be
 [findable by an `id`, `title`, or `value` attribute][capybara-click_button].
 
 4. Handle form submission
@@ -63,4 +63,4 @@ Pass the tests! Make sure you read the test output carefully!
 
 [capybara-click_button]: http://www.rubydoc.info/gems/capybara/Capybara%2FNode%2FActions%3Aclick_button
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/basic-sinatra-forms-lab' title='Sinatara Forms Lab'>Sinatara Forms Lab</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/basic-sinatra-forms-lab' title='Sinatra Forms Lab'>Sinatra Forms Lab</a> on Learn.co and start learning to code for free.</p>
