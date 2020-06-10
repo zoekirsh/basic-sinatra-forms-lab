@@ -38,7 +38,7 @@ because our test framework, Capybara, requires buttons to be
 
 4. Handle form submission
 
-   Create a route that responds to a POST request at `/team`
+   Create a route that responds to a POST request at `/team`.
    Have the form send a POST request to this route.
    Upon submission, pass the submitted data to the `team.erb` template.
 
