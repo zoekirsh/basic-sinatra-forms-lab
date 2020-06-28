@@ -62,5 +62,3 @@ Pass the tests! Make sure you read the test output carefully!
 * [Ashley William's GitHub](https://github.com/ashleygwilliams/) - [Citibike Sinatra](https://github.com/ashleygwilliams/citibike-sinatra)
 
 [capybara-click_button]: http://www.rubydoc.info/gems/capybara/Capybara%2FNode%2FActions%3Aclick_button
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/basic-sinatra-forms-lab' title='Sinatra Forms Lab'>Sinatra Forms Lab</a> on Learn.co and start learning to code for free.</p>
